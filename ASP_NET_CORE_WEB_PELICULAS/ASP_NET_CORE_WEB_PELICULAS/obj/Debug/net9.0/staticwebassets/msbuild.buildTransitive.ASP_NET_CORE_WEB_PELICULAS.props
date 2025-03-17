@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ASP_NET_CORE_WEB_PELICULAS.props" />
+</Project>

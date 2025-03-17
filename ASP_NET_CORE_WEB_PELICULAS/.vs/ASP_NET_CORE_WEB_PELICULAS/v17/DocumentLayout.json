@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mille\\OneDrive\\Documentos\\Curso Angular\\ASP_NET_CORE_WEB_PELICULAS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57D8EDA1-77A8-4B47-B0D2-9A7C13CBA972}|ASP_NET_CORE_WEB_PELICULAS\\ASP_NET_CORE_WEB_PELICULAS.csproj|c:\\users\\mille\\onedrive\\documentos\\curso angular\\asp_net_core_web_peliculas\\asp_net_core_web_peliculas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57D8EDA1-77A8-4B47-B0D2-9A7C13CBA972}|ASP_NET_CORE_WEB_PELICULAS\\ASP_NET_CORE_WEB_PELICULAS.csproj|solutionrelative:asp_net_core_web_peliculas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D8EDA1-77A8-4B47-B0D2-9A7C13CBA972}|ASP_NET_CORE_WEB_PELICULAS\\ASP_NET_CORE_WEB_PELICULAS.csproj|c:\\users\\mille\\onedrive\\documentos\\curso angular\\asp_net_core_web_peliculas\\asp_net_core_web_peliculas\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{57D8EDA1-77A8-4B47-B0D2-9A7C13CBA972}|ASP_NET_CORE_WEB_PELICULAS\\ASP_NET_CORE_WEB_PELICULAS.csproj|solutionrelative:asp_net_core_web_peliculas\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D8EDA1-77A8-4B47-B0D2-9A7C13CBA972}|ASP_NET_CORE_WEB_PELICULAS\\ASP_NET_CORE_WEB_PELICULAS.csproj|c:\\users\\mille\\onedrive\\documentos\\curso angular\\asp_net_core_web_peliculas\\asp_net_core_web_peliculas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{57D8EDA1-77A8-4B47-B0D2-9A7C13CBA972}|ASP_NET_CORE_WEB_PELICULAS\\ASP_NET_CORE_WEB_PELICULAS.csproj|solutionrelative:asp_net_core_web_peliculas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mille\\OneDrive\\Documentos\\Curso Angular\\ASP_NET_CORE_WEB_PELICULAS\\ASP_NET_CORE_WEB_PELICULAS\\appsettings.json",
+              "RelativeDocumentMoniker": "ASP_NET_CORE_WEB_PELICULAS\\appsettings.json",
+              "ToolTip": "C:\\Users\\mille\\OneDrive\\Documentos\\Curso Angular\\ASP_NET_CORE_WEB_PELICULAS\\ASP_NET_CORE_WEB_PELICULAS\\appsettings.json",
+              "RelativeToolTip": "ASP_NET_CORE_WEB_PELICULAS\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-15T18:15:22.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mille\\OneDrive\\Documentos\\Curso Angular\\ASP_NET_CORE_WEB_PELICULAS\\ASP_NET_CORE_WEB_PELICULAS\\Program.cs",
+              "RelativeDocumentMoniker": "ASP_NET_CORE_WEB_PELICULAS\\Program.cs",
+              "ToolTip": "C:\\Users\\mille\\OneDrive\\Documentos\\Curso Angular\\ASP_NET_CORE_WEB_PELICULAS\\ASP_NET_CORE_WEB_PELICULAS\\Program.cs",
+              "RelativeToolTip": "ASP_NET_CORE_WEB_PELICULAS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:13:14.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\mille\\OneDrive\\Documentos\\Curso Angular\\ASP_NET_CORE_WEB_PELICULAS\\ASP_NET_CORE_WEB_PELICULAS\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ASP_NET_CORE_WEB_PELICULAS\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\mille\\OneDrive\\Documentos\\Curso Angular\\ASP_NET_CORE_WEB_PELICULAS\\ASP_NET_CORE_WEB_PELICULAS\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ASP_NET_CORE_WEB_PELICULAS\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-15T18:11:14.394Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

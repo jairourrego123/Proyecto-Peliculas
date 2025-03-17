@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "o3cLZl1pSHNy+o1uay5WHbcHhsugkscqeE54oi0ld80=",
+  "Source": "ASP_NET_CORE_WEB_PELICULAS",
+  "BasePath": "_content/ASP_NET_CORE_WEB_PELICULAS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
