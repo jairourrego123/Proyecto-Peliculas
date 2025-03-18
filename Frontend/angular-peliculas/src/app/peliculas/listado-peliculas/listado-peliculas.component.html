@@ -1,0 +1,28 @@
+    <!-- Implementacion moderna con @for -->
+    <app-listado-generico [listado]="peliculas">
+        <ng-container vacio>
+            <span style="color: red;">No hay peliculas para ti </span>
+        </ng-container>
+        <ng-container contenido>
+            <div class="peliculas-contenedor">
+            @for (pelicula of peliculas; track $index) {
+               <div class="pelicula-contenedor">
+                <a>
+                    <img [src]="pelicula.poster" width="169" height="250"/>
+                </a>
+                <p>
+                    <a>{{pelicula.titulo}}</a>
+                </p>
+                <div>
+                    <a mat-flat-button>Editar</a>
+                    <button mat-flat-button type="button" class="warn">Borrar</button>
+                </div>
+               </div>
+               
+            }
+        </div>
+        </ng-container>
+    </app-listado-generico>
+    
+ 
+
